@@ -1,0 +1,3 @@
+- Hi, I’m Manu Kolehmainen. I am a computer engineering major in the University of Florida class of 2023.
+- I am most interested in game development, VR/AR, and digital arts. 
+- You can reach me through my email at `manu.kolehmainen@ufl.edu`
